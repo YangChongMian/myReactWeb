@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.footer{
+    width:1200px;
+    margin:0 auto;
+    border-top:1px solid #000;
+    margin-top:10px;
+    height:200px;
+    background-color: red;
+}
+.imgSize{
+    width:130px;
+    height:130px;
+}
