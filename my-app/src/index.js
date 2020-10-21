@@ -28,7 +28,7 @@ ReactDOM.render(
         <Route exact path='/vue' component={ Vue }></Route>
         <Route exact path='/ts' component={ Ts }></Route>
         <Route exact path='/uniapp' component={ Uniapp }></Route>
-        <Route component={ ()=><div>404找不到地址栏的页面</div> }></Route>
+        <Route component={ Html }></Route>
       </Switch>
     </Router>
   </React.StrictMode>,
